@@ -1,3 +1,6 @@
+IT21160134 - Sandakelum M.D.B.
+IT21161124 - Kumara D. D. K. C
+
 Face recognition enable  attendance system
 
 This Python project implements a simple attendance system using face recognition. The system captures video frames, detects faces, and verifies identities against a database of known faces using the `face_recognition` library. It logs attendance with timestamps and handles anomalies like incorrect PIN entries or suspicious login times.
