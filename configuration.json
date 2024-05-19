@@ -1,0 +1,25 @@
+{
+    "people": [
+      {
+        "name": "jobs",
+        "pin": "1234",
+        "image": "jobs.jpg"
+      },
+      {
+        "name": "mahinda",
+        "pin": "5678",
+        "image": "mahinda.jpeg"
+      },
+      {
+        "name": "sadmona",
+        "pin": "9876",
+        "image": "sadmona.jpg"
+      },
+      {
+        "name": "tesla",
+        "pin": "4321",
+        "image": "tesla.jpeg"
+      }
+    ]
+  }
+  
